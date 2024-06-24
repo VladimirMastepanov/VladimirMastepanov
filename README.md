@@ -14,7 +14,7 @@ I have completed courses in HTML, CSS, and JavaScript, and I have also studied R
 
 ## Projects
 
-[### Brain-Games   :arrow_forward: to repository](https://github.com/VladimirMastepanov/Brain-Games.git)
+### Brain-Games  [:arrow_forward: to repository](https://github.com/VladimirMastepanov/Brain-Games.git)
 This project includes five simple console-based mathematical problems implemented in JavaScript. It helped me solidify my basic programming and logical thinking skills.
 
 ### JSON-or-YML-files-comparison  [:arrow_forward: to repository](https://github.com/VladimirMastepanov/JSON-or-YML-files-comparison.git)
