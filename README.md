@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-My name is Vladimir, and I am a frontend developer. I am passionate about creating interactive and functional web applications.
+My name is Vladimir, and I am a frontend developer. I am passionate about creating interactive and functional web applications. My portfolio includes several challenging projects where I applied best practices in UI/UX design, state management, and asynchronous programming.
 
 ## About Me
 
