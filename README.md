@@ -14,7 +14,7 @@ I have completed courses in HTML, CSS, and JavaScript, and I have also studied R
 
 ## Projects
 
-### Chatify [:arrow_forward: repository](https://github.com/VladimirMastepanov/Chatify) [:arrow_forward: project demo](https://chatify-dxv7.onrender.com/)
+### Chatify [:arrow_forward: repository](https://github.com/VladimirMastepanov/Chatify) [:arrow_forward: project demo](https://chatify-dxv7.onrender.com/) *use admin/admin for login/password*
 
 Chatify is a real-time messaging application built with React and Redux, offering support for multiple channels. Users can sign up or log in to join chat rooms, create new channels, rename or delete them as needed.
 
