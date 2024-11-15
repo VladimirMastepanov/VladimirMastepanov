@@ -18,9 +18,13 @@ I have completed courses in HTML, CSS, and JavaScript, and I have also studied R
 
 Chatify is a real-time messaging application built with React and Redux, offering support for multiple channels. Users can sign up or log in to join chat rooms, create new channels, rename or delete them as needed.
 
-### RSSFusion [:arrow_forward: repository](https://github.com/VladimirMastepanov/RSSFusion) [:arrow_forward: project demo](https://frontend-project-11-iota-neon.vercel.app/)
+### RSSFusion [:arrow_forward: repository](https://github.com/VladimirMastepanov/RSSFusion.git) [:arrow_forward: project demo](https://frontend-project-11-iota-neon.vercel.app/)
 
 A browser application for aggregating RSS feeds, allowing users to conveniently read various sources such as blogs. The application allows users to add an unlimited number of RSS feeds, automatically update them, and add new entries to a common feed. The project used libraries such as `on-change`, `i18next`, `yup`, and `axios`. A feature of the project is the use of promises for asynchronous programming without using `async/await`.
+
+### DnD-calculator [:arrow_forward: repository](https://github.com/VladimirMastepanov/DnD-calculator.git) [:arrow_forward: project demo](https://frontend-project-11-iota-neon.vercel.app/)
+
+DnD-calculator is an interactive React application that allows users to build a custom calculator by arranging components in "Constructor Mode" and then using it in "Runtime Mode." This project demonstrates the power of drag-and-drop interfaces and provides a flexible, hands-on experience for users.
 
 ### JsonYamlDiff  [:arrow_forward: repository](https://github.com/VladimirMastepanov/JsonYamlDiff)
 A console application for comparing two JSON or YML files. The program outputs the results in text, stylized, and JSON formats. Tools like Jest for testing and Commander.js for creating the command-line interface were used in this project. This project demonstrates my skills in file manipulation, testing, and continuous integration.
