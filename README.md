@@ -32,10 +32,10 @@
 
 ## 📂 Projects
 
-## IronHack Todo [:arrow_forward: repository](https://github.com/VladimirMastepanov/IronHack-Todo) [:arrow_forward: project demo](https://ironhack-secondproject.netlify.app/)
+### IronHack Todo [:arrow_forward: repository](https://github.com/VladimirMastepanov/IronHack-Todo) [:arrow_forward: project demo](https://ironhack-secondproject.netlify.app/)
 IronHack Todo is a seemingly simple todo application built with Vue 3 and TypeScript, but it’s packed with features and carefully designed with maintainability, accessibility, and user experience in mind.
 
-## Yoga Attendance Tracker
+### Yoga Attendance Tracker
 Personal project: attendance journal & statistics. In active testing. **React Native, TypeScript, SQLite**
 
 ### Chatify [:arrow_forward: repository](https://github.com/VladimirMastepanov/Chatify) [:arrow_forward: project demo](https://chatify-dxv7.onrender.com/) *use admin/admin for login/password*
