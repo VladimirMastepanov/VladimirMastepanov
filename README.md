@@ -27,8 +27,6 @@
 - **Languages:** TypeScript, JavaScript  
 - **Frameworks & Libraries:** React, React Native, Vue.js  
 - **Databases:** SQLite  
-- **APIs & Integrations:** REST, Fetch / Axios  
-- **CI & Testing:** GitHub Actions, Jest, React Testing Library
 
 ---
 
