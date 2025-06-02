@@ -6,19 +6,22 @@
 
 ## 🚀 What I Do
 
-- **Hexlet Frontend Course**  
-  Deep dive into TypeScript, React and its ecosystem.
+### Ironhack Bootcamp <a href="https://www.ironhack.com/" target="_blank"> <img src="https://github.com/user-attachments/assets/c27d8475-a091-4d85-a158-6a1a56851591" alt="Ironhack logo" style="width: 40px; vertical-align: middle;" /> </a>
+Mastered Vue.js and modern UI development workflows.
 
-- **Freelance Project (React Native + TS)**  
-  - Architected and optimized a SQLite database.  
-  - Designed and implemented a REST API for data access.
 
-- **Yoga Attendance Tracker (Own Project, React Native + TS)**  
-  - Attendance journal, subscription management, usage statistics.  
-  - Currently being tested by a real yoga instructor; roadmap includes expanding to other fitness instructors and adding automated notifications and analytics.
+### Hexlet Frontend Course  
+Completed an intensive program focused on TypeScript, React, and modern frontend engineering — including state management best practices and application architecture.
 
-- **Ironhack Bootcamp**  
-  Mastered Vue.js and rapid UI development workflows.
+### Freelance Project – React Native + TypeScript  
+- Designed and optimized a local SQLite database for an offline-first experience  
+- Built a RESTful API layer to ensure seamless data access and synchronization
+
+### Own Project – Yoga Attendance Tracker (React Native + TypeScript)  
+- Developed a mobile app with attendance tracking, subscription lifecycle management, and analytics dashboard  
+- Currently in beta testing with real yoga instructors  
+- Roadmap: Multi-instructor support, smart notifications, and data-driven insights
+
 
 ---
 
